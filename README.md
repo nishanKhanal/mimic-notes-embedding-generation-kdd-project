@@ -1,0 +1,1 @@
+# Embedding Generation for MIMIC-notes for downstream tasks.
