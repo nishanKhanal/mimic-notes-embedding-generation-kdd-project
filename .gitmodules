@@ -1,0 +1,3 @@
+[submodule "PatientTrajectoryForecasting"]
+	path = PatientTrajectoryForecasting
+	url = git@github.com:nishanKhanal/PatientTrajectoryForecasting.git
