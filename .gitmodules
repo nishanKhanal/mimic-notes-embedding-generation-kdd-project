@@ -1,3 +1,6 @@
 [submodule "PatientTrajectoryForecasting"]
 	path = PatientTrajectoryForecasting
 	url = git@github.com:nishanKhanal/PatientTrajectoryForecasting.git
+[submodule "medical-coding-reproducibility"]
+	path = medical-coding-reproducibility
+	url = git@github.com:nishanKhanal/medical-coding-reproducibility.git
